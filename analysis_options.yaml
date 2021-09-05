@@ -1,0 +1,14 @@
+# See also:
+# https://dart.dev/tools/linter-rules
+# https://dart.dev/guides/language/analysis-options#the-analysis-options-file
+
+include: package:lints/recommended.yaml
+
+# Uncomment to specify additional rules.
+# linter:
+#   rules:
+#     - camel_case_types
+
+# analyzer:
+#   exclude:
+#     - path/to/excluded/files/**
